@@ -11,7 +11,7 @@
 }
 .group-child {
   top: 163px;
-  background-color: var(--color-gray-300);
+  background-color: #20223a;
   height: 376px;
 }
 .mainkan-sekarang-juga,
@@ -26,7 +26,7 @@
 .mainkan-sekarang-juga {
   top: 326px;
   left: 500px;
-  font-size: var(--font-size-13xl);
+  font-size: 32px;
   width: 412px;
   height: 25px;
 }
@@ -34,7 +34,7 @@
   position: absolute;
   top: 310px;
   left: 577px;
-  border-top: 4px solid var(--color-dimgray);
+  border-top: 4px solid #545252;
   box-sizing: border-box;
   width: 258px;
   height: 4px;
@@ -43,8 +43,8 @@
   position: absolute;
   top: 410px;
   left: 632px;
-  border-radius: var(--br-18xl);
-  background-color: var(--color-white);
+  border-radius: 37px;
+  background-color: #fff;
   width: 144px;
   height: 72px;
 }
@@ -52,9 +52,9 @@
   position: absolute;
   top: 433px;
   left: 650px;
-  font-size: var(--font-size-5xl);
+  font-size: 24px;
   display: inline-block;
-  color: var(--color-black);
+  color: #000;
   width: 108px;
   height: 25px;
 }
@@ -64,8 +64,8 @@
   left: 0;
   width: 1440.24px;
   height: 539px;
-  font-size: var(--font-size-21xl);
-  color: var(--color-white);
+  font-size: 40px;
+  color: #fff;
 }
 .logo-1-icon {
   position: absolute;
@@ -105,8 +105,8 @@
 .links {
   top: 727px;
   left: 393px;
-  font-size: var(--font-size-13xl);
-  color: var(--color-gray-100);
+  font-size: 32px;
+  color: #7c7c7c;
   width: 107px;
 }
 .facebook,
@@ -213,8 +213,8 @@
 .sosial {
   top: 727px;
   left: 1015px;
-  font-size: var(--font-size-13xl);
-  color: var(--color-gray-100);
+  font-size: 32px;
+  color: #7c7c7c;
   width: 183px;
 }
 .legal,
@@ -227,320 +227,66 @@
   width: 127px;
 }
 .tampilan-akhir {
-  top: 5131px;
-  background-color: var(--color-white);
+  position: absolute;
+  top: 4096px;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
   height: 1024px;
   overflow: hidden;
-  font-size: var(--font-size-5xl);
-  color: var(--color-gray-200);
+  font-size: 24px;
+  color: #292828;
 }
-.backgorund-child,
-.shapes-1-icon,
-.tampilan-akhir {
+.screenshot-2023-06-10-231851-1 {
   position: absolute;
+  top: 19px;
   left: 0;
+  border-radius: 90px;
   width: 1440px;
-}
-.shapes-1-icon {
-  top: 830px;
-  height: 163px;
+  height: 985px;
   object-fit: cover;
 }
-.backgorund-child {
-  top: 162px;
-  background-color: var(--color-gray-300);
-  height: 668px;
-}
-.backgorund,
-.regrowth-1-icon {
-  position: absolute;
-  top: 1px;
-  left: 0;
-  width: 1440.24px;
-  height: 993px;
-}
-.regrowth-1-icon {
-  top: 292px;
-  left: 36px;
-  width: 72px;
-  height: 72px;
-  object-fit: cover;
-}
-.guiding-light-1-icon,
-.seekers-1-icon,
-.skye-icon-1,
-.trailblazer-1-icon {
-  position: absolute;
-  top: 388px;
-  left: 36px;
-  width: 72px;
-  height: 72px;
-  object-fit: cover;
-}
-.guiding-light-1-icon,
-.seekers-1-icon,
-.skye-icon-1 {
-  top: 484px;
-}
-.seekers-1-icon,
-.skye-icon-1 {
-  top: 580px;
-}
-.skye-icon-1 {
-  top: 0;
-  left: 0;
-  width: 216px;
-  height: 216px;
-}
-.regrowth-1-parent {
-  position: absolute;
-  top: 172px;
-  left: 418px;
-  width: 216px;
-  height: 652px;
-  display: none;
-}
-.lihat-lebih-child {
+.statistik1 {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-18xl);
-  background-color: var(--color-white);
-  width: 144px;
-  height: 72px;
-}
-.kembali,
-.lihat-lebih {
-  position: absolute;
-  top: 25px;
-  left: 26px;
   display: inline-block;
-  width: 92.43px;
-  height: 21.41px;
-}
-.lihat-lebih {
-  top: 24px;
-  left: 48px;
-  width: 144px;
-  height: 72px;
-  display: none;
-}
-.viper-background-text-1-icon {
-  position: absolute;
-  top: 0;
-  left: 206px;
-  width: 648.06px;
-  height: 840px;
-  object-fit: cover;
-}
-.viper-artwork-full-1-icon {
-  top: 43.92px;
-  left: 206px;
-  height: 675.78px;
-  object-fit: cover;
-}
-.viper,
-.viper-artwork-full-1-icon,
-.viper-child {
-  position: absolute;
-  width: 840px;
-}
-.viper-child {
-  top: 62.29px;
-  left: 0;
-  background-color: var(--color-gainsboro);
-  height: 675.78px;
-}
-.viper {
-  top: 116px;
-  left: -206px;
-  height: 840px;
-}
-.profil-agent-viper {
-  position: absolute;
-  height: 16.67%;
-  width: 100%;
-  top: 66.85%;
-  right: 0;
-  bottom: 16.49%;
-  left: 0;
-  background-color: var(--color-white);
-  overflow: hidden;
-}
-.background-child,
-.shapes-1-icon1 {
-  position: absolute;
-  left: 0.15px;
-  width: 1439.76px;
-}
-.shapes-1-icon1 {
-  top: 796.89px;
-  height: 163.11px;
-  object-fit: cover;
-}
-.background-child {
-  top: 129.08px;
-  background-color: var(--color-gray-300);
-  height: 668.44px;
-}
-.background,
-.shapes-4-icon,
-.skye {
-  position: absolute;
-  left: 0;
-  width: 1440px;
-}
-.shapes-4-icon {
-  top: 0;
-  height: 165.2px;
-  object-fit: cover;
-}
-.background,
-.skye {
-  top: 26px;
-  height: 960px;
-}
-.skye {
-  top: 0;
-  left: 48px;
-  display: inline-block;
-  width: 172px;
-  height: 88px;
+  width: 288px;
+  height: 48px;
 }
 .damochi-child {
   position: absolute;
-  top: 86px;
-  left: -2px;
-  border-top: 4px solid var(--color-white);
+  top: 78px;
+  left: 8px;
+  border-top: 4px solid #545252;
   box-sizing: border-box;
   width: 272px;
   height: 4px;
 }
-.damochi1 {
+.damochi1,
+.statistik {
   position: absolute;
-  top: 21px;
-  left: 586px;
-  width: 268px;
-  height: 88px;
-  display: none;
-  font-size: var(--font-size-45xl);
+  top: 111px;
+  left: 576px;
+  width: 288px;
+  height: 80px;
 }
-.skye-artwork-full-1-icon,
-.skye-background-text-1-icon {
-  position: absolute;
-  top: 58.88px;
-  left: 0;
-  width: 508.82px;
-  height: 877.12px;
-  object-fit: cover;
-}
-.skye-artwork-full-1-icon {
-  top: 0;
-  left: 19.18px;
-}
-.kembali1,
-.skye1 {
-  position: absolute;
-  top: 40px;
-  left: 0;
-  width: 528px;
-  height: 936px;
-  cursor: pointer;
-}
-.kembali1 {
-  top: 0.37px;
-  width: 144px;
-  height: 72px;
-  color: var(--color-gray-300);
-}
-.regrowth-1-icon1 {
-  position: absolute;
-  top: 292.68px;
-  left: 36px;
-  width: 72px;
-  height: 72.17px;
-  object-fit: cover;
-}
-.guiding-light-1-icon1,
-.seekers-1-icon1,
-.skye-icon-11,
-.trailblazer-1-icon1 {
-  position: absolute;
-  top: 388.91px;
-  left: 36px;
-  width: 72px;
-  height: 72.17px;
-  object-fit: cover;
-}
-.guiding-light-1-icon1,
-.seekers-1-icon1,
-.skye-icon-11 {
-  top: 485.13px;
-}
-.seekers-1-icon1,
-.skye-icon-11 {
-  top: 581.36px;
-}
-.skye-icon-11 {
-  top: 0;
-  left: 0;
-  width: 216px;
-  height: 216.51px;
-}
-.channel-a-healing,
-.send-out-a,
-.send-out-a1,
-.send-out-a2,
-.send-out-and {
-  position: absolute;
-  top: 499.54px;
-  left: 126px;
-  display: inline-block;
-  width: 720px;
-  height: 96.22px;
-}
-.channel-a-healing,
-.send-out-a1,
-.send-out-a2,
-.send-out-and {
-  top: 599.78px;
-}
-.channel-a-healing,
-.send-out-a2,
-.send-out-and {
-  top: 299.07px;
-}
-.send-out-a2,
-.send-out-and {
-  top: 399.31px;
-}
-.send-out-a2 {
-  top: 19.42px;
-  left: 216px;
-}
-.skye-skill {
-  position: absolute;
-  top: 170px;
-  left: 455px;
-  width: 936px;
-  height: 696px;
-}
-.profil-agent-skye {
-  position: absolute;
-  height: 16.67%;
+.statistik {
+  height: 20%;
   width: 100%;
-  top: 50.17%;
+  top: 60%;
   right: 0;
-  bottom: 33.16%;
+  bottom: 20%;
   left: 0;
-  background-color: var(--color-white);
+  background-color: #fff;
   overflow: hidden;
+  font-size: 64px;
 }
 .rectangle-div {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: var(--color-snow);
+  background-color: #fffcfc;
   box-shadow: 1px 1px 2px rgba(255, 255, 255, 0.3) inset,
     -1px -1px 2px rgba(204, 202, 202, 0.5) inset,
     -2px 2px 4px rgba(204, 202, 202, 0.2), 2px -2px 4px rgba(204, 202, 202, 0.2),
@@ -548,16 +294,16 @@
   width: 354px;
   height: 305px;
 }
-.lihat-lebih-item {
+.lihat-lebih-child {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-18xl);
-  background-color: var(--color-gray-300);
+  border-radius: 37px;
+  background-color: #20223a;
   width: 148px;
   height: 74px;
 }
-.lihat-lebih2 {
+.lihat-lebih1 {
   position: absolute;
   top: 26px;
   left: 19px;
@@ -565,14 +311,14 @@
   width: 116px;
   height: 22px;
 }
-.lihat-lebih1 {
+.lihat-lebih {
   position: absolute;
   top: 205px;
   left: 103px;
   width: 148px;
   height: 74px;
-  font-size: var(--font-size-xl);
-  color: var(--color-snow);
+  font-size: 20px;
+  color: #fffcfc;
 }
 .atau-valo-merupakan {
   margin: 0;
@@ -594,7 +340,7 @@
   width: 56px;
   height: 15px;
 }
-.lihat-lebih4,
+.lihat-lebih3,
 .rectangle-parent {
   position: absolute;
   top: 131px;
@@ -602,21 +348,21 @@
   width: 354px;
   height: 305px;
 }
-.lihat-lebih4 {
+.lihat-lebih3 {
   top: 26px;
   left: 22px;
   display: inline-block;
   width: 116px;
   height: 22px;
 }
-.lihat-lebih3 {
+.lihat-lebih2 {
   position: absolute;
   top: 205px;
   left: 177px;
   width: 148px;
   height: 74px;
-  font-size: var(--font-size-xl);
-  color: var(--color-snow);
+  font-size: 20px;
+  color: #fffcfc;
 }
 .controller {
   margin: 0;
@@ -637,7 +383,7 @@
   width: 55px;
   height: 15px;
 }
-.lihat-lebih6,
+.lihat-lebih5,
 .rectangle-group {
   position: absolute;
   top: 131px;
@@ -645,21 +391,21 @@
   width: 354px;
   height: 305px;
 }
-.lihat-lebih6 {
+.lihat-lebih5 {
   top: 26px;
   left: 16px;
   display: inline-block;
   width: 116px;
   height: 22px;
 }
-.lihat-lebih5 {
+.lihat-lebih4 {
   position: absolute;
   top: 205px;
   left: 35px;
   width: 148px;
   height: 74px;
-  font-size: var(--font-size-xl);
-  color: var(--color-snow);
+  font-size: 20px;
+  color: #fffcfc;
 }
 .player-iddamochi-saya-container,
 .valorant5 {
@@ -700,12 +446,12 @@
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-18xl);
-  background-color: var(--color-gray-300);
+  border-radius: 37px;
+  background-color: #20223a;
   width: 97px;
   height: 44px;
 }
-.lihat-lebih7 {
+.lihat-lebih6 {
   position: absolute;
   top: 15px;
   left: 12px;
@@ -719,18 +465,14 @@
   left: 688px;
   width: 97px;
   height: 44px;
-  font-size: var(--font-size-sm);
-  color: var(--color-snow);
+  font-size: 14px;
+  color: #fffcfc;
 }
 .tampilan-damochi-item {
   position: absolute;
   top: 604px;
   left: 943px;
   background: linear-gradient(135deg, #fffefe, #fffbfb);
-  box-shadow: 1px 1px 2px rgba(239, 239, 239, 0.3) inset,
-    -1px -1px 2px rgba(195, 195, 195, 0.5) inset,
-    -2px 2px 4px rgba(195, 195, 195, 0.2), 2px -2px 4px rgba(195, 195, 195, 0.2),
-    -2px -2px 4px rgba(239, 239, 239, 0.9), 2px 2px 5px rgba(195, 195, 195, 0.9);
   width: 340px;
   height: 403px;
 }
@@ -746,41 +488,29 @@
   position: absolute;
   top: 341px;
   left: 129px;
-  border-radius: var(--br-18xl);
-  background-color: var(--color-gray-300);
+  border-radius: 37px;
+  background-color: #20223a;
   width: 97px;
   height: 44px;
 }
-.lihat-lebih8 {
-  position: absolute;
+.lihat-lebih7 {
   top: 356px;
   left: 141px;
   display: inline-block;
-  color: var(--color-snow);
   width: 84px;
   height: 14px;
 }
-.role {
-  font-size: var(--font-size-3xs);
-}
-.initiators-role {
-  top: 310px;
-  left: 105px;
-  display: inline-block;
-  width: 145px;
-  height: 27px;
-  font-size: var(--font-size-5xl);
-}
-.initiators-role,
+.lihat-lebih7,
 .parent,
-.skye2 {
+.skye {
   position: absolute;
 }
-.skye2 {
+.skye {
   top: 0;
   left: 130px;
-  font-size: var(--font-size-17xl);
+  font-size: 36px;
   display: inline-block;
+  color: #7ee2ab;
   width: 105px;
   height: 34px;
 }
@@ -789,8 +519,8 @@
   left: 943px;
   width: 340px;
   height: 385px;
-  font-size: var(--font-size-sm);
-  color: var(--color-mediumaquamarine);
+  font-size: 14px;
+  color: #fffcfc;
 }
 .group-child5,
 .tampilan-damochi-inner {
@@ -811,9 +541,9 @@
 .line-div,
 .tampilan-damochi-child1 {
   position: absolute;
-  top: 527px;
-  left: 571px;
-  border-top: 4px solid var(--color-dimgray);
+  top: 526px;
+  left: 579px;
+  border-top: 4px solid #545252;
   box-sizing: border-box;
   width: 298px;
   height: 4px;
@@ -827,16 +557,16 @@
 .valorant7 {
   position: absolute;
   top: 450px;
-  left: 531px;
-  font-size: var(--font-size-45xl);
+  left: 539px;
+  font-size: 64px;
   display: inline-block;
   width: 394px;
   height: 63px;
 }
 .valorant7 {
   top: 561px;
-  left: 614px;
-  font-size: var(--font-size-17xl);
+  left: 623px;
+  font-size: 36px;
   width: 227px;
   height: 34px;
 }
@@ -845,10 +575,6 @@
   top: 595px;
   left: 163px;
   background: linear-gradient(135deg, #fffefe, #fffbfb);
-  box-shadow: 1px 1px 2px rgba(239, 239, 239, 0.3) inset,
-    -1px -1px 2px rgba(195, 195, 195, 0.5) inset,
-    -2px 2px 4px rgba(195, 195, 195, 0.2), 2px -2px 4px rgba(195, 195, 195, 0.2),
-    -2px -2px 4px rgba(239, 239, 239, 0.9), 2px 2px 5px rgba(195, 195, 195, 0.9);
   width: 350px;
   height: 412px;
 }
@@ -867,7 +593,7 @@
   height: 411px;
   display: none;
 }
-.viper-artwork-full-1-icon1,
+.viper-artwork-full-1-icon,
 .viper-background-text-2-icon {
   position: absolute;
   top: 545px;
@@ -877,7 +603,7 @@
   object-fit: cover;
   display: none;
 }
-.viper-artwork-full-1-icon1 {
+.viper-artwork-full-1-icon {
   top: 629px;
   left: 193px;
   width: 289px;
@@ -887,34 +613,25 @@
   position: absolute;
   top: 341px;
   left: 126px;
-  border-radius: var(--br-18xl);
-  background-color: var(--color-gray-300);
+  border-radius: 37px;
+  background-color: #20223a;
   width: 97px;
   height: 44px;
 }
-.lihat-lebih9 {
+.lihat-lebih8,
+.viper {
   position: absolute;
   top: 356px;
   left: 138px;
   display: inline-block;
-  color: var(--color-snow);
   width: 84px;
   height: 14px;
 }
-.controllers-role,
-.viper1 {
-  position: absolute;
-  top: 306px;
-  left: 80px;
-  display: inline-block;
-  width: 190px;
-  height: 27px;
-  font-size: var(--font-size-5xl);
-}
-.viper1 {
+.viper {
   top: 0;
   left: 122px;
-  font-size: var(--font-size-17xl);
+  font-size: 36px;
+  color: #0ab54d;
   width: 106px;
   height: 34px;
 }
@@ -924,15 +641,15 @@
   left: 163px;
   width: 350px;
   height: 385px;
-  font-size: var(--font-size-sm);
-  color: var(--color-forestgreen);
+  font-size: 14px;
+  color: #fffcfc;
 }
 .damochi2,
 .damochi3 {
   position: absolute;
   top: 918px;
   left: 677px;
-  font-size: var(--font-size-5xl);
+  font-size: 24px;
   display: inline-block;
   width: 119px;
   height: 27px;
@@ -940,7 +657,7 @@
 .damochi3 {
   top: 23px;
   left: 565px;
-  font-size: var(--font-size-45xl);
+  font-size: 64px;
   width: 310px;
   height: 88px;
 }
@@ -948,26 +665,24 @@
   position: absolute;
   top: 107px;
   left: 584px;
-  border-top: 4px solid var(--color-dimgray);
+  border-top: 4px solid #545252;
   box-sizing: border-box;
   width: 272px;
   height: 4px;
 }
 .tampilan-damochi {
   position: absolute;
-  height: 16.67%;
+  height: 20%;
   width: 100%;
-  top: 33.33%;
+  top: 40%;
   right: 0;
-  bottom: 50%;
+  bottom: 40%;
   left: 0;
-  background-color: var(--color-white);
+  background-color: #fff;
   overflow: hidden;
-  font-size: var(--font-size-smi);
-  color: var(--color-dimgray);
 }
 .viper-adalah-agent-container,
-.viper3 {
+.viper2 {
   position: absolute;
   top: 0;
   left: 0;
@@ -977,11 +692,11 @@
 }
 .viper-adalah-agent-container {
   top: 48.93px;
-  font-size: var(--font-size-xl);
+  font-size: 20px;
   width: 457px;
   height: 111.07px;
 }
-.viper2 {
+.viper1 {
   position: absolute;
   top: 216px;
   left: 144px;
@@ -989,7 +704,7 @@
   height: 160px;
 }
 .skye-adalah-agent-container,
-.skye4 {
+.skye2 {
   position: absolute;
   top: 0;
   left: 0;
@@ -999,12 +714,12 @@
 }
 .skye-adalah-agent-container {
   top: 63px;
-  font-size: var(--font-size-xl);
+  font-size: 20px;
   width: 457px;
   height: 97px;
 }
 .damochi5,
-.skye3 {
+.skye1 {
   position: absolute;
   top: 648px;
   left: 839px;
@@ -1022,7 +737,7 @@
   position: absolute;
   top: 83px;
   left: 19px;
-  border-top: 4px solid var(--color-dimgray);
+  border-top: 4px solid #545252;
   box-sizing: border-box;
   width: 272px;
   height: 4px;
@@ -1033,9 +748,9 @@
   left: 565px;
   width: 310px;
   height: 88px;
-  font-size: var(--font-size-45xl);
+  font-size: 64px;
 }
-.viper-background-text-1-icon1 {
+.viper-background-text-1-icon {
   position: absolute;
   top: 0;
   left: 52.41px;
@@ -1043,36 +758,36 @@
   height: 445px;
   object-fit: cover;
 }
-.viper-artwork-full-1-icon2,
-.viper-item {
+.viper-artwork-full-1-icon1,
+.viper-child {
   position: absolute;
   left: 0;
   width: 395px;
   height: 358px;
 }
-.viper-artwork-full-1-icon2 {
+.viper-artwork-full-1-icon1 {
   top: 23.27px;
   object-fit: cover;
 }
-.viper-item {
+.viper-child {
   top: 33px;
-  background-color: var(--color-gainsboro);
+  background-color: transparent;
 }
-.skye-background-text-1-icon1,
-.viper4 {
+.skye-background-text-1-icon,
+.viper3 {
   position: absolute;
   top: 144px;
   left: 877px;
   width: 395px;
   height: 445px;
 }
-.skye-background-text-1-icon1 {
+.skye-background-text-1-icon {
   top: 0;
   left: 46px;
   width: 304.76px;
   object-fit: cover;
 }
-.skye-artwork-full-1-icon1,
+.skye-artwork-full-1-icon,
 .skye-child {
   position: absolute;
   top: 42.95px;
@@ -1080,54 +795,52 @@
   width: 395px;
   height: 358.61px;
 }
-.skye-artwork-full-1-icon1 {
+.skye-artwork-full-1-icon {
   object-fit: cover;
 }
 .skye-child {
-  background-color: var(--color-gainsboro);
+  background-color: transparent;
 }
-.lihat-lebih10,
-.skye5 {
+.lihat-lebih9,
+.skye3 {
   position: absolute;
   top: 435px;
   left: 168px;
   width: 395px;
   height: 445px;
-  cursor: pointer;
 }
-.lihat-lebih10 {
+.lihat-lebih9 {
   top: 902px;
   left: 646px;
   width: 148px;
   height: 74px;
-  font-size: var(--font-size-xl);
-  color: var(--color-snow);
+  cursor: pointer;
+  font-size: 20px;
+  color: #fffcfc;
 }
 .agent-fav {
   position: absolute;
-  height: 16.67%;
+  height: 20%;
   width: 100%;
-  top: 16.72%;
-  right: 0;
-  bottom: 66.62%;
-  left: 0;
-  background-color: var(--color-white);
+  top: 20%;
+  right: 0.56%;
+  bottom: 60%;
+  left: -0.56%;
+  background-color: #fff;
   overflow: hidden;
-  font-size: var(--font-size-21xl);
-  color: var(--color-dimgray);
+  font-size: 40px;
 }
+.profil-child,
 .tampilan-beranda-child {
   position: absolute;
   top: -1px;
   left: 0;
-  background-color: var(--color-gray-300);
+  background-color: #20223a;
   width: 1440px;
   height: 824px;
 }
 .profil-child {
-  position: absolute;
   top: 116px;
-  left: 0;
   border-radius: 326px;
   background-color: #2a0e40;
   box-shadow: 2px 2px 3px rgba(255, 255, 255, 0.3) inset,
@@ -1150,20 +863,6 @@
   width: 316px;
   height: 437px;
 }
-.img-20201213-175143-567-1-icon,
-.img-20210412-200403-610-1-icon {
-  position: absolute;
-  top: 158px;
-  left: 870px;
-  border-radius: var(--br-3xl);
-  width: 316px;
-  height: 437px;
-  object-fit: cover;
-  display: none;
-}
-.img-20201213-175143-567-1-icon {
-  mix-blend-mode: exclusion;
-}
 .profil {
   position: absolute;
   top: 158px;
@@ -1180,14 +879,14 @@
 }
 .hai-saya-gabriel {
   top: 164px;
-  font-size: var(--font-size-45xl);
+  font-size: 64px;
   height: 188px;
 }
 .saya-adalah-seorang {
   top: 328px;
   height: 69px;
 }
-.shapes-1-icon2 {
+.shapes-1-icon {
   position: absolute;
   top: 804px;
   left: 0;
@@ -1199,21 +898,21 @@
   position: absolute;
   top: 16px;
   left: 184px;
-  font-size: var(--font-size-5xl);
+  font-size: 24px;
   display: inline-block;
   width: 119px;
   height: 29px;
 }
-.lihat-lebih-child3 {
+.lihat-lebih-child2 {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-70xl-5);
-  background-color: var(--color-white);
+  border-radius: 89.5px;
+  background-color: #fff;
   width: 259px;
   height: 110px;
 }
-.lihat-lebih13 {
+.lihat-lebih12 {
   position: absolute;
   top: 38px;
   left: 56px;
@@ -1221,15 +920,15 @@
   width: 147px;
   height: 34px;
 }
-.lihat-lebih12 {
+.lihat-lebih11 {
   position: absolute;
   top: 469px;
   left: 74px;
   width: 259px;
   height: 110px;
   cursor: pointer;
-  font-size: var(--font-size-5xl);
-  color: var(--color-black);
+  font-size: 24px;
+  color: #000;
 }
 .beranda,
 .tentang-saya {
@@ -1262,14 +961,14 @@
   top: 17px;
   left: 943px;
   width: 314px;
-  font-size: var(--font-size-base);
-  color: var(--color-black);
+  font-size: 16px;
+  color: #000;
 }
 .group-child7 {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-70xl-5);
+  border-radius: 89.5px;
   background-color: #9b9797;
   width: 109px;
   height: 52px;
@@ -1288,7 +987,7 @@
   left: 1274px;
   width: 109px;
   height: 52px;
-  color: var(--color-black);
+  color: #000;
 }
 .hai-saya-gabriel-eldon-parent,
 .line-icon {
@@ -1302,35 +1001,26 @@
   top: 7px;
   height: 967px;
 }
-.vecteezy-valorant-logo-png-tra-icon {
-  position: absolute;
-  top: 0;
-  left: 48px;
-  width: 71px;
-  height: 69px;
-  object-fit: cover;
-  display: none;
-}
 .tampilan-beranda,
 .valorant-dik {
-  background-color: var(--color-white);
+  background-color: #fff;
   width: 100%;
   overflow: hidden;
 }
 .tampilan-beranda {
   position: absolute;
-  height: 16.67%;
+  height: 20%;
   top: 0;
   right: 0;
-  bottom: 83.33%;
+  bottom: 80%;
   left: 0;
-  font-size: var(--font-size-smi);
+  color: #fff;
 }
 .valorant-dik {
   position: relative;
-  height: 6144px;
+  height: 5120px;
   text-align: left;
-  font-size: var(--font-size-xl);
-  color: var(--color-white);
-  font-family: var(--font-montserrat);
+  font-size: 13px;
+  color: #545252;
+  font-family: Montserrat;
 }
